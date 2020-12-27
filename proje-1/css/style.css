@@ -1,0 +1,51 @@
+
+​
+.arkaplan{
+  height: 100vh;
+  font-size:12px;
+  background-color: #FAD961;
+  color:#1B1B1B;
+  font-family: 'Poppins', sans-serif;
+}
+.bluetooth{
+  font-size:3.5rem;
+  font-weight: bold;
+  /*
+  calc(100vh)
+  */
+}
+.bordericin{
+  border-left:1px solid #999999;
+  height: 37px;
+  font-weight: 550;
+}
+.rounded-pill{
+  border:2px solid #1B1B1B;
+}
+.fiyat{
+  width: 25%;
+  height: 40px;
+}
+.euro{
+  font-size: 18px;
+  font-weight: 570;
+}
+​
+.speaker{
+  width: 102%;
+  height:379px;
+  position: relative;
+  margin-right: 0px;
+}
+.bb{
+  font-size: 18px;
+  font-weight: bold;
+}
+.yazi{
+  width:95%;
+  font-size: 16px;
+}
+.altlinkler{
+  font-size:12px;
+  font-weight: bold;
+}

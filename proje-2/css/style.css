@@ -1,0 +1,185 @@
+.arkaplan{
+  background-color: #160C6E;
+  position: relative;
+}
+
+ .mavi{
+   background-color: #3F21D0;
+   width: 43rem;
+   height: 43rem;
+   border-radius: 50%;
+ }
+
+ .turuncu{
+   background:linear-gradient(320.25deg, #DF387C -33.39%, #FF602C 103.69%);
+   width: 26rem;
+   height: 26rem;
+   border-radius: 50%;
+ }
+
+ .orta-resim{
+   width: 31rem;
+ }
+
+ .balon1{
+   border: 1.5px solid white;
+   width: 2.2rem;
+   height: 2.2rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 25rem;
+   bottom: 10rem;
+  }
+
+ .balon2{
+   border: 1.5px solid white;
+   width: 0.8rem;
+   height: 0.8rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 26rem;
+   bottom: 28.5rem;
+  }
+
+ .balon3{
+   border: 1.5px solid white;
+   width: 1.2rem;
+   height: 1.2rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 25rem;
+   bottom: 40rem;
+ }
+
+ .balon4{
+   border: 1.5px solid white;
+   width: 0.8rem;
+   height: 0.8rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 49rem;
+   bottom: 11rem;
+ }
+
+ .balon5{
+   border: 1.5px solid white;
+   width: 0.6rem;
+   height: 0.6rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 45rem;
+   bottom: 15rem;
+ }
+
+ .balon6{
+   border: 1.5px solid white;
+   width: 0.6rem;
+   height: 0.6rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 48rem;
+   bottom: 39.5rem;
+ }
+
+ .balon7{
+   width: 0.8rem;
+   height: 0.8rem;
+   border: 1.5px solid white;
+   border-radius: 50%;
+   position: absolute;
+   left: 62rem;
+   bottom: 11rem;
+ }
+
+ .balon8{
+   border: 1.5px solid white;
+   width: 0.8rem;
+   height: 0.8rem;
+   border-radius: 50%;
+   position: absolute;
+   left: 62rem;
+   bottom: 38rem;
+ }
+
+ .logo{
+   position: absolute;
+   left: 13rem;
+   bottom: 42rem;
+ }
+ .search{
+   position: absolute;
+   left: 70rem;
+   bottom: 42rem;
+
+ }
+
+ .baslik-gear{
+  position: absolute;
+   list-style: none;
+   font-family: 'Montserrat',sans-serif;
+   position: absolute;
+   font-weight: 700;
+   font-size: 1.2rem;
+   margin-top: 2rem;
+   left: 14.5rem;
+   bottom: 28.5rem;
+ }
+
+ .listedekiler{
+   position: absolute;
+   list-style: none;
+   font-family: 'Montserrat'sans-serif;
+   font-size: 14px;
+   font-weight: 600;
+   left: 12rem;
+   bottom: 17rem;
+ }
+
+ .gear{
+   font-family: 'Montserrat',sans-serif;
+   position: absolute;
+   font-size: 85px;
+   font-weight: 900px;
+   left: 44rem;
+   bottom: 25rem;
+ }
+
+ .yazi1{
+   position: absolute;
+   font-size: 13px;
+   font-weight: 700px;
+   left: 55.5rem;
+   bottom: 24rem;
+ }
+
+ .yazi2{
+   position: absolute;
+   font-size: 13px;
+   font-weight: 700px;
+   left: 55.5rem;
+   bottom: 22.5rem;
+ }
+
+ .yazi3{
+   position: absolute;
+   font-weight: 700px;
+   font-size: 13px;
+   left: 58rem;
+   bottom: 21rem;
+ }
+ .btn{
+   font-size: 0.7rem;
+   background:linear-gradient(320.25deg, #DF387C -33.39%, #FF602C 103.69%);
+   border-radius: 20px;
+   position: absolute;
+   left: 60rem;
+   bottom: 17rem;
+   height: 42px;
+   width: 130px;
+ }
+ .fab{
+   color: #ffffff;
+   position: absolute;
+   left: 14rem;
+   bottom: 8rem;
+  }

@@ -1,0 +1,94 @@
+@media (max-width:719px) {
+@import url('https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@700&display=swap');
+
+.profilfoto{
+  width: 0px;
+}
+.navbar-expand-lg{
+  background-color: #bd5d38;
+}
+.navbar-brand{
+  font-size: 1.3rem;
+}
+.navbar-nav{
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+.sag-kisim{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 7rem;
+}
+.birinci-sayfa{
+  height: 100vh;
+}
+.baslik{
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 6rem;
+  font-weight: 900;
+
+}
+.soyisim{
+  color: #bd5d38;
+}
+a{
+  color: #bd5d38;
+}
+.berry-street{
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: gray;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.basyazi{
+  font-family: font-family: 'Mulish', sans-serif;
+  color: gray;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+.tarihler{
+  justify-content: end;
+  color: #bd5d38;
+}
+.baslik-2{
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 900;
+  color: #343a40;
+  font-size: 3rem;
+}
+.baslik-3{
+  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: bold;
+  color: #343a40;
+  font-size: 2rem;
+}
+
+.ikonlar .fab{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.liste li{
+  list-style: none;
+  font-size: 1rem;
+}
+.skills-ikonlar{
+  display: inline-flex;
+  color: gray;
+  font-size: 2.5rem;
+}
+.dorduncu-sayfa.liste{
+  color: gray;
+}
+.altinci-sayfa.liste{
+  color: gray;
+}
+}

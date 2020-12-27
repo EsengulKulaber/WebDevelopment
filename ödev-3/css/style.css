@@ -1,0 +1,71 @@
+.navbar{
+  padding: 0 1rem;
+}
+.navbar-nav{
+  font-size: 1.5rem;
+  }
+.arkaplan-fume{
+  background-color: #6c757d;
+}
+.ust-kisim-bosluk{
+  padding: 2% 5%;
+}
+.nav-radius{
+  border-radius: 0.75rem;
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.ust-alt-50px-bosluk{
+  padding: 50px 0;
+}
+
+.slogan{
+  font-family: Ubuntu;
+  font-size: 2rem;
+  font-weight: 350;
+  line-height: 2;
+  margin-bottom: 10%;
+  justify-content:center;
+}
+
+.son{
+  font-size: 2rem;
+  color: #a20a0a;
+  margin-bottom: 5%;
+  padding-top: 20px;
+}
+
+
+@media(min-width: 768px){
+  .resim{
+    border-radius: 50%;
+  }
+}
+
+@media(max-width: 767px){
+  .resim{
+    margin-top: 30px;
+    border-radius: 50%;
+  }
+  .indirme-linkleri{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-widht: 992px) {
+  .r-l-fluid-padding{
+    padding: 3% 15%;
+  }
+}
+
+@media (max-widht: 991px){
+  .r-l-fluid-padding{
+    padding: 3% 3%;
+  }
+}
